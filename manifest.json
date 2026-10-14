@@ -1,6 +1,6 @@
 {
-  "version": "1",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/recursos-1.zip",
-  "sha256": "f4a06ff44628c477432c735ba874dc111a605c813255c3348be58e4fc790e35d",
-  "description": "Prueba visual: cartel verde en la escena principal"
+  "version": "2",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/recursos-2.zip",
+  "sha256": "bc9c0ed3fd5d70caf1a18f99ed02af0a101252b59fa6a033ac05073b8cf9b953",
+  "description": "Diagnostico visible: escena remota activa"
 }
