@@ -1,6 +1,6 @@
 {
-  "version": "5",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-5.pck",
-  "sha256": "44d85fadd18cfdc48969ea81f936b9a16b68a825608c6910a46aa0d1e4b0524a",
-  "description": "Prueba 5: banner ACTUALIZACION ONLINE 5 mediante remote_content"
+  "version": "6",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-6.pck",
+  "sha256": "bd8f5f3c95dd10c7841b3050b40daaaa9830d96b18c6785b45e3fd4c45c78da6",
+  "description": "Prueba 6: banner al entrar a la Sala de pruebas"
 }
