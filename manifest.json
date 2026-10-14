@@ -1,6 +1,6 @@
 {
-  "version": "6",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-6.pck",
-  "sha256": "bd8f5f3c95dd10c7841b3050b40daaaa9830d96b18c6785b45e3fd4c45c78da6",
-  "description": "Prueba 6: banner al entrar a la Sala de pruebas"
+  "version": "7",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-7.pck",
+  "sha256": "0114e4c6014d0e69ca75f5a54cd32ca4ef34804b2591cc13979cf69ca383139d",
+  "description": "Parche 7: torso del enemigo basico corregido"
 }
