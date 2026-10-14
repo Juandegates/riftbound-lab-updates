@@ -1,6 +1,6 @@
 {
-  "version": "3",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/recursos-3.zip",
-  "sha256": "e68845c38f6a4e98216b05b4405f211ce93b0057fd4d67ae2a72d236f9ecdad4",
-  "description": "Enemigo articulado: reordenamiento de piezas y continuidad de idle mediante escena remota"
+  "version": "5",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-5.pck",
+  "sha256": "44d85fadd18cfdc48969ea81f936b9a16b68a825608c6910a46aa0d1e4b0524a",
+  "description": "Prueba 5: banner ACTUALIZACION ONLINE 5 mediante remote_content"
 }
