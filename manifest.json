@@ -1,6 +1,6 @@
 {
-  "version": "9",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-9.pck",
-  "sha256": "c6e805502afcf0ebf4405d9b9af8788671fea6c5cb584a676323a3b55113ffa0",
-  "description": "Parche 9: parche 8 + nuevo aspecto del enemigo de obsidiana y 10% mas pequeno"
+  "version": "10",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-10.pck",
+  "sha256": "fdd4f99f54a91a126222f44c48304cb622e360c3b09d31f6aa069e2964b80780",
+  "description": "Parche 10: destello de dano, postura que baja, sonido de defensa rota y pasos de Nomada (incluye 8 y 9)"
 }
