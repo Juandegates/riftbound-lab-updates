@@ -1,6 +1,6 @@
 {
-  "version": "2",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/recursos-2.zip",
-  "sha256": "bc9c0ed3fd5d70caf1a18f99ed02af0a101252b59fa6a033ac05073b8cf9b953",
-  "description": "Diagnostico visible: escena remota activa"
+  "version": "3",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/recursos-3.zip",
+  "sha256": "e68845c38f6a4e98216b05b4405f211ce93b0057fd4d67ae2a72d236f9ecdad4",
+  "description": "Enemigo articulado: reordenamiento de piezas y continuidad de idle mediante escena remota"
 }
