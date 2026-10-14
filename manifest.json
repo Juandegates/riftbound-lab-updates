@@ -1,6 +1,6 @@
 {
-  "version": "8",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-8.pck",
-  "sha256": "6cf6ef776eaf611cc763c569cd59c84f4cabec9c153960126f5b8ca5ebed7125",
-  "description": "Parche 8: enemigo basico ataca tras aturdirse, rival nuevo animado y alcance real del ataque"
+  "version": "9",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-9.pck",
+  "sha256": "c6e805502afcf0ebf4405d9b9af8788671fea6c5cb584a676323a3b55113ffa0",
+  "description": "Parche 9: parche 8 + nuevo aspecto del enemigo de obsidiana y 10% mas pequeno"
 }
