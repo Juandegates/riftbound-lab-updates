@@ -1,6 +1,6 @@
 {
-  "version": "11",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-11.pck",
-  "sha256": "ba4445033032cdb617a24eb152fd33a0d6c82d6a4b0a302c6145947bb8034102",
-  "description": "Parche 11: parche 10 con pasos de Nomada mas suaves"
+  "version": "12",
+  "pack_url": "",
+  "sha256": "",
+  "description": "26.3.25: los parches 7-11 ya estan integrados en el APK. Sin paquete en linea."
 }
