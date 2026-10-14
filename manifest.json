@@ -1,6 +1,6 @@
 {
-  "version": "10",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-10.pck",
-  "sha256": "fdd4f99f54a91a126222f44c48304cb622e360c3b09d31f6aa069e2964b80780",
-  "description": "Parche 10: destello de dano, postura que baja, sonido de defensa rota y pasos de Nomada (incluye 8 y 9)"
+  "version": "11",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-11.pck",
+  "sha256": "ba4445033032cdb617a24eb152fd33a0d6c82d6a4b0a302c6145947bb8034102",
+  "description": "Parche 11: parche 10 con pasos de Nomada mas suaves"
 }
