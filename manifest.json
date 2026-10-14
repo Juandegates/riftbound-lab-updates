@@ -1,6 +1,6 @@
 {
-  "version": "7",
-  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-7.pck",
-  "sha256": "0114e4c6014d0e69ca75f5a54cd32ca4ef34804b2591cc13979cf69ca383139d",
-  "description": "Parche 7: torso del enemigo basico corregido"
+  "version": "8",
+  "pack_url": "https://raw.githubusercontent.com/Juandegates/riftbound-lab-updates/main/packs/prueba-8.pck",
+  "sha256": "6cf6ef776eaf611cc763c569cd59c84f4cabec9c153960126f5b8ca5ebed7125",
+  "description": "Parche 8: enemigo basico ataca tras aturdirse, rival nuevo animado y alcance real del ataque"
 }
